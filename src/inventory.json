@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "ski",
+    "label": "Rossignol Bleu",
+    "available": true
+  },
+  {
+    "id": 2,
+    "type": "ski",
+    "label": "Rossignol Rouge",
+    "available": true
+  },
+  {
+    "id": 3,
+    "type": "snowboard",
+    "label": "Atomic Black",
+    "available": true
+  },
+  {
+    "id": 4,
+    "type": "ski",
+    "label": "Salomon Nice",
+    "available": true
+  },
+  {
+    "id": 5,
+    "type": "ski",
+    "label": "Salomon Paris",
+    "available": true
+  },
+  {
+    "id": 6,
+    "type": "snowboard",
+    "label": "Rossignol Blanc",
+    "available": true
+  }
+]
